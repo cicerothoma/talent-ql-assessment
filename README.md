@@ -11,7 +11,7 @@ TalentQL technical assessment API that supports the post functionality of Facebo
 
 ## Usage
 
-* Clone the repo using ```git clone https://{username}@bitbucket.org/lendme-admin/lendme-admin.git``` 
+* Clone the repo using ```git clone https://github.com/cicerothoma/talent-ql-assessment.git``` 
 [ This is the `https` url version, you can also opt for the Git version. The ```username``` variable in the clone URL is your bitbucket username which is automatically attached when you click the clone button ]
 * Download and Install Node on your machine if you don't have it install
 * Ensure Node version is set to 14.16.0 and npm set to 6.14.11
