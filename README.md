@@ -11,10 +11,9 @@ TalentQL technical assessment API that supports the post functionality of Facebo
 
 ## Usage
 
-* Clone the repo using ```git clone https://{username}@bitbucket.org/lendme-admin/lendme-admin.git``` 
-[ This is the `https` url version, you can also opt for the Git version. The ```username``` variable in the clone URL is your bitbucket username which is automatically attached when you click the clone button ]
+* Clone the repo using ```git clone https://github.com/cicerothoma/talent-ql-assessment.git``` 
 * Download and Install Node on your machine if you don't have it install
-* Ensure Node version is set to 14.16.0 and npm set to 6.14.11
+* Ensure Node version is set to ^14.17.0 and npm set to 6.14.13
 * Run ```npm install``` to install all dependencies
 * Create a copy of the .env.example file and rename to config.env
 * Setup mongodb using your prefered GUI. [GUI MongoDB Compass](https://www.mongodb.com/products/compass) is recommended
@@ -46,4 +45,5 @@ WHAT ARE THE RELEVANT PIVOTAL TRACKER STORIES?
 SCREENSHOTS (IF APPROPRIATE)
 QUESTIONS:
 ```
-
+## Test In Live Mode
+[API Base URL](https://stormy-badlands-01458.herokuapp.com/)
